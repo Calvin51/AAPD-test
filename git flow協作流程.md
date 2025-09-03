@@ -270,7 +270,7 @@ git push origin --delete feature/<功能名稱>
 
 ## 9. 合併 develop 版本到 main（由一人執行，使用 Pull Request）
 
-當 `develop` 分支 Deploy 到預覽版 GitHub Pages ( 方式請看 [第 10 步](#10-在-pr-合併到-develop-和-main-之後會自動觸發-github-action-來-deploy-github-pages) ) 上測試確認功能無誤後可以合併版本到 `main` 分支。
+當 `develop` 分支 Deploy 到預覽版 GitHub Pages 上測試確認功能無誤後可以合併版本到 `main` 分支。
 
 ```bash
 git checkout develop
