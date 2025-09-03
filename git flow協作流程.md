@@ -8,7 +8,7 @@
 
   https://github.com/Calvin51/AAPD-Furby
 
-- preview repo (只用來放 develop 的 Github pages)
+- 測試用 repo (放流程資料)
 
   https://github.com/Calvin51/AAPD-test
 
